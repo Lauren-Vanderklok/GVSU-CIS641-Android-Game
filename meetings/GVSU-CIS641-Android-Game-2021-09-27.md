@@ -4,13 +4,13 @@ Hold a team meeting at least once a week in some format.  Copy the following tem
 
 ## Meeting minutes template
 
-Team name:
+Team name: Android-Game
 
-Members present:
+Members present: Anna, Lauren, Trey, Sathya
 
-Date:
+Date: September 27 2021
 
-Time:
+Time: 6 PM
 
 Discussion points: 
 
@@ -21,7 +21,6 @@ Discussion points:
 
 Goals for next week (include responsibilities)
 
-*
-*
-*
+* complete stories (everyone)
+* have team part of HW3 done by thursday
 
