@@ -1,13 +1,12 @@
 # Overview
 
-<Describe the purpose of this document in 1 paragraph of less … hint: it is your SRS>
+This document contains the formal requirements for all the currently planned features of the project. More may be added as time allows. This document will guide our planning and development moving forward. 
 
 # Functional Requirements
 
 1. Feature: Movement
     1. The player sprite shall have movement in the 4 cardinal directions. 
     2. The game shall use colliders to stop the player sprite from walking through walls and other objects.
-    3. <And so on>
 
 2. Feature: Inventory
    1. The game shall have an inventory to keep track of items obtained.
