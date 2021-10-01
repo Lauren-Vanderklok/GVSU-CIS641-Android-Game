@@ -13,7 +13,7 @@
 * [Anna Kakarala](https://github.com/akakarala/641CIS-hw2-Kakarala)
 * [Sathya Kiran Gandavarapu](https://github.com/sathya-rgv/CIS641-HW2-Gandavarapu)
 
-## Prerequisites TODO: make sure is correct
+## Prerequisites
 * Unity Hub
 * Unity version: 2020.3.19f1
 * Visual Studio Community
@@ -32,10 +32,11 @@
 * make sure you have developer settings enabled on your device
 * Hit play button on top of Unity window on computer
 
-## TODO: links to other documents 
+## Links to Other Documents 
 * [First tileset](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/artFiles/tileset_basicOutside.png)
 * [Placeholder image for player character (until new one is created)](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/artFiles/player.png)
 * [Images for control arrows](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/tree/artFiles/controlArrows)
+* [Artifacts](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/tree/master/artifacts)
 
 ## Requirements 
 
