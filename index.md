@@ -15,6 +15,7 @@
 
 ## Prerequisites TODO: make sure is correct
 * Unity Hub
+* Visual Studio Community
 * Git
 * Pix2D (for those making art assets)
 
