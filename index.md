@@ -13,7 +13,10 @@
 * [Anna Kakarala](https://github.com/akakarala/641CIS-hw2-Kakarala)
 * [Sathya Kiran Gandavarapu](https://github.com/sathya-rgv/CIS641-HW2-Gandavarapu)
 
-## Prerequisites
+## Prerequisites TODO: make sure is correct
+* Unity Hub
+* Git
+* Pix2D (for those making art assets)
 
 ## Run Instructions
 
