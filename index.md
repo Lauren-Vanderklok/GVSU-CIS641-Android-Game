@@ -18,6 +18,9 @@
 ## Run Instructions
 
 ## TODO: links to other documents 
+* [First tileset](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/artFiles/tileset_basicOutside.png)
+* [Placeholder image for player character (until new one is created)](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/artFiles/player.png)
+* [Images for control arrows](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/tree/artFiles/controlArrows)
 
 ## Requirements 
 
