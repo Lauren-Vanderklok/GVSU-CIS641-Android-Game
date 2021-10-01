@@ -15,11 +15,22 @@
 
 ## Prerequisites TODO: make sure is correct
 * Unity Hub
+* Unity version: 2020.3.19f1
 * Visual Studio Community
 * Git
 * Pix2D (for those making art assets)
+* Unity Remote 5 (On the testing device)
 
 ## Run Instructions
+* Open the project in Unity
+* Make sure unity has all Android add ons installed in unity hub
+* switch target platform to android
+* switch device to 'any android device' 
+* open Unity Remote 5 on testing device
+* connect to computer
+* make sure you allow all connections with computer
+* make sure you have developer settings enabled on your device
+* Hit play button on top of Unity window on computer
 
 ## TODO: links to other documents 
 * [First tileset](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/artFiles/tileset_basicOutside.png)
