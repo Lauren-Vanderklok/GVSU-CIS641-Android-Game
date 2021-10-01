@@ -41,4 +41,6 @@
 ## Requirements 
 
 [Requirements Document](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/docs/software_requirements_specification.md)
+[Project Prospectus](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/docs/proposal-template.md)
+[Artifacts](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/tree/master/artifacts)
   
