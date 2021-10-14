@@ -10,12 +10,18 @@ Trey Smith, Lauren Vanderklok, Anna Kakarala
 
 ## Discussion points:
 Discussed progress on sprints
+
 Trey:  Not much progress, been busy with work and exams
+
 Lauren: Progress going well
+
 Anna:  Progress going well
+
 Sathya:  Not present at meeting, judging from DMs probably not good
 
 ## Goals for next week (include responsibilities)
 finish sprint (responisbilities listed in last week's minutes)
+
 Work on presentation (Trey find something to prerecord)
+
 Lauren made new channel for midterm presentation discussion
