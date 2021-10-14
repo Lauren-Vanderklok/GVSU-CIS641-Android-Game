@@ -7,7 +7,7 @@
 1. Make a new branch from the 'develop' branch. To do this, navigate to the 'develop' branch from the drop down in the code tab. Once youre there, from that same drop down, start typeing what you want to name your branch. A option to create a branch of that name from develop should appear. Click that option. 
 2. Open your command line. Navigate to where you have cloned the project. 
 3. Run the command 'git fetch' this command gets changes from the remote repository (online) but does not overwrite anything you have on your local machine. This command should print a list of newly created branches, the one you created in step one should be on there. 
-4. Run 'git checkout <name of your new branch>' without the <> . You are now on your new branch
+4. Run 'git checkout "name of your new branch"' without the quotes . You are now on your new branch
 
 ### When you are ready to commit!
   
