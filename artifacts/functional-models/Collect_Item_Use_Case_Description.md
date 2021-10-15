@@ -21,7 +21,7 @@ This use case describes how the player can collect items on the map.
 
 Trigger: Player presses interact button and collectable item is in front of player sprite.
 
-Type: 
+Type: External
 
 ## Relationships
 * Association: Player, Inventory
