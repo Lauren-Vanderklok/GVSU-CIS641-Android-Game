@@ -18,6 +18,6 @@ public class Interact : MonoBehaviour
 
     public void onInteractClicked()
     {
-        System.Console.WriteLine("here");
+        
     }
 }
