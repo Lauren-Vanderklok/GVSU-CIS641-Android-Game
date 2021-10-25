@@ -13,6 +13,11 @@ public class Inventory : MonoBehaviour
         //System.Console.WriteLine("here");
     }
 
+    public void displayInventory()
+    {
+
+    }
+
 
     // Start is called before the first frame update
     void Start()
