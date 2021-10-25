@@ -21,14 +21,7 @@ public class Inventory : MonoBehaviour
 
     public void displayInventory()
     {
-        if (panel == null)
-        {
-            panel = GameObject.Find(InventoryPanelName);
-        }
-        if (content == null)
-        {
-            content = GameObject.Find(InventoryScrollContentName);
-        }
+
 
         if (panel.activeSelf)
         {
@@ -81,6 +74,9 @@ public class Inventory : MonoBehaviour
     void Start()
     {
         inventory = new List<Key>();
+        panel = GameObject.Find(InventoryPanelName);
+        content = GameObject.Find(InventoryScrollContentName);
+        panel.SetActive(false);
     }
 
     // Update is called once per frame
