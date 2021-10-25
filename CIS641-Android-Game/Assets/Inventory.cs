@@ -40,23 +40,12 @@ public class Inventory : MonoBehaviour
             panel.SetActive(true);
 
             float xPos = 10;
+            float yPos = -10;
 
-            Vector3[] corners = null;
-            //RectTransform parentRect;
-
-            //if (inventory.Count > 0)
-            //{
-            //    parentRect = content.GetComponent<RectTransform>();
-                
-            //    //parentRect.GetLocalCorners(corners);
-            //}
-
-
-
+           
             foreach (Key key in inventory)
             {
                 RectTransform parentRect = content.GetComponent<RectTransform>();
-
 
                 GameObject NewObj = new GameObject();
                 Image NewImage = NewObj.AddComponent<Image>();
@@ -64,18 +53,22 @@ public class Inventory : MonoBehaviour
                 NewObj.GetComponent<RectTransform>().SetParent(content.transform); //Assign the newly created Image GameObject as a Child of the Parent Panel.
                 NewObj.transform.SetParent(content.transform, false);
 
-
                  RectTransform childRect = NewObj.GetComponent<RectTransform>();
 
                 //childRect.rect.width = 10;
 
                 NewObj.transform.localPosition = new Vector3(
                      (-parentRect.rect.width / 2) + (childRect.rect.width / 2) + xPos,
-                     (parentRect.rect.height / 2) + (-childRect.rect.height / 2) - 10,
+                     (parentRect.rect.height / 2) + (-childRect.rect.height / 2) + yPos,
                     0);
                 NewObj.SetActive(true); //Activate the GameObject
 
                 xPos += 10 + childRect.rect.width;
+                if (xPos > parentRect.rect.width) 
+                {
+                    xPos = 10;
+                    yPos -= 10 + childRect.rect.height;
+                }
             }
 
         }
