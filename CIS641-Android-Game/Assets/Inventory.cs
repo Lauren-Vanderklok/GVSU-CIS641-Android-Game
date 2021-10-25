@@ -70,12 +70,12 @@ public class Inventory : MonoBehaviour
                 //childRect.rect.width = 10;
 
                 NewObj.transform.localPosition = new Vector3(
-                     (-parentRect.rect.width / 2) + xPos + childRect.rect.width,
-                     + 10,
+                     (-parentRect.rect.width / 2) + (childRect.rect.width / 2) + xPos,
+                     (parentRect.rect.height / 2) + (-childRect.rect.height / 2) - 10,
                     0);
                 NewObj.SetActive(true); //Activate the GameObject
 
-                xPos += 10;
+                xPos += 10 + childRect.rect.width;
             }
 
         }
