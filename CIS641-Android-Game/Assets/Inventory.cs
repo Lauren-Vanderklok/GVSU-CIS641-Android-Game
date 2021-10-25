@@ -1,11 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Inventory : MonoBehaviour
 {
+    public string InventoryPanelName = "Inventory_Panel";
+    public string InventoryScrollContentName = "ScrollContent";
+
 
     private List<Key> inventory;
+    private GameObject panel;
+    private GameObject content;
 
     public void addKey(Key key)
     {
@@ -15,7 +21,66 @@ public class Inventory : MonoBehaviour
 
     public void displayInventory()
     {
+        if (panel == null)
+        {
+            panel = GameObject.Find(InventoryPanelName);
+        }
+        if (content == null)
+        {
+            content = GameObject.Find(InventoryScrollContentName);
+        }
 
+        if (panel.activeSelf)
+        {
+            panel.SetActive(false);
+            
+        }
+        else
+        {
+            panel.SetActive(true);
+
+            float xPos = 10;
+
+            Vector3[] corners = null;
+            //RectTransform parentRect;
+
+            //if (inventory.Count > 0)
+            //{
+            //    parentRect = content.GetComponent<RectTransform>();
+                
+            //    //parentRect.GetLocalCorners(corners);
+            //}
+
+
+
+            foreach (Key key in inventory)
+            {
+                RectTransform parentRect = content.GetComponent<RectTransform>();
+
+
+                GameObject NewObj = new GameObject();
+                Image NewImage = NewObj.AddComponent<Image>();
+                NewImage.sprite = Resources.Load<Sprite>("Keys/" + key.ID);
+                NewObj.GetComponent<RectTransform>().SetParent(content.transform); //Assign the newly created Image GameObject as a Child of the Parent Panel.
+                NewObj.transform.SetParent(content.transform, false);
+
+
+                 RectTransform childRect = NewObj.GetComponent<RectTransform>();
+
+                //childRect.rect.width = 10;
+
+                NewObj.transform.localPosition = new Vector3(
+                     (-parentRect.rect.width / 2) + xPos + childRect.rect.width,
+                     + 10,
+                    0);
+                NewObj.SetActive(true); //Activate the GameObject
+
+                xPos += 10;
+            }
+
+        }
+
+        //add keys
     }
 
 
