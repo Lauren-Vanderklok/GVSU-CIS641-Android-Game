@@ -11,6 +11,7 @@ public class Movment : MonoBehaviour
     public bool right;
     public bool left;
     public float speed;
+    public bool slowdown;
 
     public void setUpState (bool state)
     {
@@ -38,7 +39,8 @@ public class Movment : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        speed = .04f;
+        slowdown = false;
     }
 
     // Update is called once per frame
@@ -46,6 +48,7 @@ public class Movment : MonoBehaviour
     {
         //float x = Input.GetAxisRaw(“Horizontal”);
         //float y = Input.GetAxisRaw(“Vertical”);
+
         
 
         if (up)
@@ -65,4 +68,24 @@ public class Movment : MonoBehaviour
             gameObject.transform.position = new Vector2(transform.position.x + -speed, transform.position.y);
         }
     }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "slowdown")
+        {
+            slowdown = true;
+            speed = .02f;
+        }
+    }
+    void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.tag == "slowdown")
+        {
+            slowdown = false;
+            speed = .04f;
+        }
+            
+    }
+        
 }
+
+    
