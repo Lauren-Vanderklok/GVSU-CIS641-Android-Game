@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5090096492249129807}
   - component: {fileID: 5090096492249129804}
   - component: {fileID: 5090096492249129806}
+  - component: {fileID: 7909761827787382818}
   m_Layer: 0
   m_Name: Alien
   m_TagString: Untagged
@@ -143,7 +144,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.5625, y: 1}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 0.5625, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -169,6 +170,25 @@ MonoBehaviour:
   panel: {fileID: 0}
   content: {fileID: 0}
   imagePrefab: {fileID: 2393888431172696073, guid: ecb18ecc335a8c840bef1a734d97fa1c, type: 3}
+--- !u!95 &7909761827787382818
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5090096492249129792}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a25d495924010504dbb3e2168fe02eb3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &5090096492570721845
 GameObject:
   m_ObjectHideFlags: 0
