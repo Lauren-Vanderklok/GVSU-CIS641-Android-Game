@@ -8,7 +8,7 @@ public class Key : MonoBehaviour
     public string ID;
     public bool isShipPart;
 
-    private void OnTriggerEnter(Collider other)
+     void OnTriggerEnter2D(Collider2D other)
     {
 
         Inventory inventory = other.gameObject.GetComponent<Inventory>();

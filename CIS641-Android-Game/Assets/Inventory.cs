@@ -21,6 +21,18 @@ public class Inventory : MonoBehaviour
         inventory.Add(key);
     }
 
+    public bool hasKey(string ID)
+    {
+        foreach (Key k in inventory)
+        {
+            if (k.ID == ID)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public void displayInventory()
     {
 
