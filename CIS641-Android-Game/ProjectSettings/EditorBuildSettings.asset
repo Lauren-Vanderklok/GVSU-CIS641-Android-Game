@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lake.unity
     guid: 9f38e823c5fd3d94e90a51120c6d7273
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 2f8add61a5b6a93449a9e5ef7f3d77f4
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 4cd600f2bda20ff44b96c3fc9e7c0534
   m_configObjects: {}
