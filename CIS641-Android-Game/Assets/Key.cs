@@ -8,6 +8,13 @@ public class Key : MonoBehaviour
     public string ID;
     public bool isShipPart;
 
+
+    public Key (string ID)
+    {
+        this.ID = ID;
+        isShipPart = false;
+    }
+
      void OnTriggerEnter2D(Collider2D other)
     {
 
