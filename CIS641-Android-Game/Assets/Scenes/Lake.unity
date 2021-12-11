@@ -2693,7 +2693,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5975341755546254091, guid: 457390b115ffc7749a43d62d4f99876b, type: 3}
       propertyPath: m_Name
-      value: Key
+      value: SteeringWheel
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 457390b115ffc7749a43d62d4f99876b, type: 3}
@@ -2932,11 +2932,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5090096492249129805, guid: e396da98f51f9c64c9cb8228c9a116f1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 5090096492249129805, guid: e396da98f51f9c64c9cb8228c9a116f1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 5090096492249129805, guid: e396da98f51f9c64c9cb8228c9a116f1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3472,7 +3472,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4061544129657651302, guid: ea70f091169458d4aa16d1071fe76dab, type: 3}
       propertyPath: neededKeyID
-      value: SteeringWheel
+      value: Oar
       objectReference: {fileID: 0}
     - target: {fileID: 4061544129657651302, guid: ea70f091169458d4aa16d1071fe76dab, type: 3}
       propertyPath: sceneToGoTo
