@@ -1,9 +1,14 @@
 # Overview
+
 <Describe the purpose of this document in 1 paragraph of less … hint: it is
 your SRS>
+
 # Software Requirements
+
 <Describe the structure of this section>
+  
 ## Functional Requirements
+  
 ### Inventory Screen
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -98,20 +103,27 @@ your SRS>
 | NFR26 | The game should be played in landscape mode. |
 | NFR27 | Final APK should be compatible with kitkat version of Android and above. |
 | … | … |
+  
   # Change management plan
+  
 <Description of what this section is>
+  
 # Traceability links
+  
 <Description of this section>
+  
 ## Use Case Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
 | UseCase1 | Move Player | FR5 |
 | … | … | … |
+  
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
 | :-------------: |:----------: |
 | classPlayer | NFR3, FR5 |
 | … | … | … |
+  
 ## Activity Diagram Traceability
 <In this case, it makes more sense (I think, feel free to disagree) to link
 to the file and to those requirements impacted>
@@ -119,6 +131,7 @@ to the file and to those requirements impacted>
 | :-------------: | :----------: | :----------: |
 | <filename> | Handle Player Input | FR1-5, NFR2 |
 | … | … | … |
+  
 # Software Artifacts
 <Describe the purpose of this section>
 * [I am a link](to_some_file.pdf)
