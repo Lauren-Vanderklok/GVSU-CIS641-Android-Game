@@ -22,6 +22,7 @@ public class endingCheckForKeys : MonoBehaviour
 
         if (numNeededKeys == shipParts.Length)
         {
+            dataHolder.Instance.inventory = new List<string>();
             SceneManager.LoadScene("Closing");
         }
 
