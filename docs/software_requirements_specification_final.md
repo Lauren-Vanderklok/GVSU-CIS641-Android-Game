@@ -17,7 +17,7 @@ your SRS>
 | FR3 | Inventory should display all collected items. |
 | FR4 | Movement controls should not be accessible while the inventory screen is open. |
 | FR5 | Inventory should close when the icon is clicked while it is open. |
-| … | … | … |
+
 ### Player Sprite
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -26,7 +26,7 @@ your SRS>
 | FR8 | Player sprite should stop when arrows on the screen are released. |
 | FR9 | Player sprite should change the direction it appears to face based off direction of movement. |
 | FR10 | Player sprite should animate while moving, but not while stationary. |
-| … | … |
+
 ### Levels
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -35,7 +35,7 @@ your SRS>
 | FR13 | Some levels should be inaccessible unless a certain item is in the inventory. |
 | FR14 | Player character should be loaded into different parts of the level based on which other level he entered from. |
 | FR15 | Inventory should be loaded from persistent object on every level change. |
-| … | … | … |
+
 ### Item Collection
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -44,7 +44,7 @@ your SRS>
 | FR18 | Key item collection shall be necessary to progress to new areas of the game. |
 | FR19 | Player should be required to collect all ship repair items to complete the game. |
 | FR20 | Key item sprites should disappear from the level map after they are collected. |
-| … | … |
+
 ### Collision
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -53,7 +53,7 @@ your SRS>
 | FR23 | All non-ground and non-floor tiles should be collidable. |
 | FR24 | Player character should also collide with water. |
 | FR25 | Player sprite movement speed should decrease when walking over certain areas of the map. |
-| … | … | … |
+
 
 ## Non-Functional Requirements
 ### Opening Animation
@@ -65,7 +65,7 @@ your SRS>
 | NFR4 | Title Screen should contain the name of the game. |
 | NFR5 | Aspect ratio should be 4:3, framerate should be 5 FPS. |
 | NFR6 | Animation should last approximately 6 seconds. |
-| … | … | … |
+
 ### Ending Animation
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -75,7 +75,7 @@ your SRS>
 | NFR10 | Aspect ratio should be 4:3, framerate should be 5 FPS. |
 | NFR11 | Animation should last approximately six seconds. |
 | NFR12 | Animation should only play if the game has been completed. |
-| … | … | … |
+
 ### Controls
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -84,7 +84,7 @@ your SRS>
 | NFR15 | Inventory icon should be on the bottom left side of the screen. |
 | NFR16 | Visible area of the level map should take up the entire screen (no black bars under the controls). |
 | NFR17 | Player speed should be quick enough to move around the map in a reasonable amount of time, but not so fast as to be difficult to control. |
-| … | … | … |
+
 ### Art Design
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -93,7 +93,7 @@ your SRS>
 | NFR20 | Tiles for ground, water, indoor floor, and walls should be available for use. |
 | NFR21 | Environmental obstacles such as trees, rocks, and furniture should be created. |
 | NFR22 | Player character should be 1 tile tall (64 pixels). |
-| … | … |
+
 ### Compatibility
 | ID | Requirement |
 | :-------------: | :----------: |
@@ -102,7 +102,7 @@ your SRS>
 | NFR25 | Testing during development should be done using Unity Remote 5 on android devices. |
 | NFR26 | The game should be played in landscape mode. |
 | NFR27 | Final APK should be compatible with kitkat version of Android and above. |
-| … | … |
+
   
   # Change management plan
   
