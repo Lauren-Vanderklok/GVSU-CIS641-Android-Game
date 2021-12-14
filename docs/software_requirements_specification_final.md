@@ -106,7 +106,17 @@ your SRS>
   
   # Change management plan
   
-<Description of what this section is>
+We have a great new adventure/puzzle game for you. This game is great for all ages, is perfect for short brain breaks and can help relieve stress. 
+This game is completely FREE, has NO ADs, and NO IN-APP PURCHASES!!!! This short game is the perfect thing to give those who play it a short break, 
+which studies say leads to better productivity.It can be solved quickly, keeps those playing cognitively engaged(but not overstressed), and still 
+teaches the lesson that anything can be fixed with a little help. The game is simple to download on any android device, and follows the common 
+structure of most video games (making it easy to learn to play). After some short instruction on the goal of the game, the game can be played by all. 
+If any problems arise in the game, the developer can be emailed or comments can be left on the game github and the developers will work to fix them. 
+
+Make the best choice now and download STAR CRASH.
+
+As a bonus, you can also claim that you are supporting local college students!
+
   
 # Traceability links
   
