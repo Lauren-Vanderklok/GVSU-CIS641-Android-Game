@@ -125,8 +125,11 @@ As a bonus, you can also claim that you are supporting local college students!
 ## Use Case Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| UseCase1 | Move Player | FR5 |
-| … | … | … |
+|[UseCase_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/UseCase_ShipRepair.jpg)|ShipRepair|FR19|
+  |[Level Unlock Use Case.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Level%20Unlock%20Use%20Case.jpg)|Level Unlock|FR18|
+  |[Diagrams Collision-Usecase.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Usecase.drawio.png)|Collision|FR25|
+  |[Collect_Item_use_case_diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_use_case_diagram.drawio.png)| Collect Item |FR17|
+
   
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
@@ -140,6 +143,9 @@ to the file and to those requirements impacted>
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
 | <filename> | Handle Player Input | FR1-5, NFR2 |
+  |[ActivityDiagram_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/ActivityDiagram_ShipRepair.jpg)|Ship Repair|FR19|
+  |[Collect_Item_Activity_Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_Activity_Diagram.drawio.png)|Collect Item|FR16, FR17, FR20|
+  |[Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)|Collision|FR25|
 | … | … | … |
   
 # Software Artifacts
