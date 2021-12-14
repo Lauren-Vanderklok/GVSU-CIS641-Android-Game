@@ -130,10 +130,10 @@ Thank you for considering STAR CRASH as an entertainment option at your medical 
 ## Use Case Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-|[UseCase_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/UseCase_ShipRepair.jpg)|ShipRepair|FR19|
-  |[Level Unlock Use Case.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Level%20Unlock%20Use%20Case.jpg)|Level Unlock|FR18|
-  |[Diagrams Collision-Usecase.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Usecase.drawio.png)|Collision|FR25|
-  |[Collect_Item_use_case_diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_use_case_diagram.drawio.png)| Collect Item |FR17|
+|[UseCase_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/UseCase_ShipRepair.jpg)|ShipRepair|FR19, FR3, FR17|
+  |[Level Unlock Use Case.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Level%20Unlock%20Use%20Case.jpg)|Level Unlock|FR18, FR3, FR12, FR13, GR17, FR18|
+  |[Diagrams Collision-Usecase.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Usecase.drawio.png)|Collision|FR25, FR16|
+  |[Collect_Item_use_case_diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_use_case_diagram.drawio.png)| Collect Item |FR17, FR3, FR15, FR16|
 
   
 ## Class Diagram Traceability
@@ -147,9 +147,9 @@ Thank you for considering STAR CRASH as an entertainment option at your medical 
 to the file and to those requirements impacted>
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-  |[ActivityDiagram_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/ActivityDiagram_ShipRepair.jpg)|Ship Repair|FR19|
+  |[ActivityDiagram_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/ActivityDiagram_ShipRepair.jpg)|Ship Repair|FR19, FR17|
   |[Collect_Item_Activity_Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_Activity_Diagram.drawio.png)|Collect Item|FR16, FR17, FR20|
-  |[Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)|Collision|FR25|
+  |[Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)|Collision|FR21 - FR25|
 
   
 # Software Artifacts
@@ -187,4 +187,3 @@ to the file and to those requirements impacted>
   * [Collect_Item_Activity_Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_Activity_Diagram.drawio.png)
   * [Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)
   
-* [I am a link](to_some_file.pdf)
