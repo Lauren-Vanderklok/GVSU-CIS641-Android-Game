@@ -147,7 +147,6 @@ Thank you for considering STAR CRASH as an entertainment option at your medical 
 to the file and to those requirements impacted>
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| <filename> | Handle Player Input | FR1-5, NFR2 |
   |[ActivityDiagram_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/ActivityDiagram_ShipRepair.jpg)|Ship Repair|FR19|
   |[Collect_Item_Activity_Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_Activity_Diagram.drawio.png)|Collect Item|FR16, FR17, FR20|
   |[Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)|Collision|FR25|
@@ -155,4 +154,36 @@ to the file and to those requirements impacted>
   
 # Software Artifacts
 <Describe the purpose of this section>
+  ## WNDs
+  * [IMG_20211117_195550583.jpg](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/hci/IMG_20211117_195550583.jpg)
+  
+  ## Potential DB tables
+  * [Gate-Key ER diagram.jpg](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/Gate-Key%20ER%20diagram.jpg)
+  
+  ## Class Diagram
+  * [Class diagram.png](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/Class%20diagram.png)
+  
+  ## Object Diagram
+  * [objectDiagram.drawio.png](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/objectDiagram.drawio.png)
+  
+  ## Balancing Diagrams
+  
+  ## State Machines
+  * [state machine.png](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/state%20machine.png)
+  
+  ## Sequence Diagrams
+  * [sequence diagram.png](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/sequence%20diagram.png)
+
+  ## Use Case Diagrams
+  * [UseCase_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/UseCase_ShipRepair.jpg)
+  * [Level Unlock Use Case.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Level%20Unlock%20Use%20Case.jpg)
+  * [Diagrams Collision-Usecase.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Usecase.drawio.png)
+  * [Collect_Item_use_case_diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_use_case_diagram.drawio.png)
+
+  
+  ## Activity Diagrams
+  * [ActivityDiagram_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/ActivityDiagram_ShipRepair.jpg)
+  * [Collect_Item_Activity_Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_Activity_Diagram.drawio.png)
+  * [Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)
+  
 * [I am a link](to_some_file.pdf)
