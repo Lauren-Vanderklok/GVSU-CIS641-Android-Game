@@ -154,6 +154,7 @@ to the file and to those requirements impacted>
   
 # Software Artifacts
 <Describe the purpose of this section>
+  
   ## WNDs
   * [IMG_20211117_195550583.jpg](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/hci/IMG_20211117_195550583.jpg)
   
