@@ -106,16 +106,21 @@ your SRS>
   
   # Change management plan
   
-We have a great new adventure/puzzle game for you. This game is great for all ages, is perfect for short brain breaks and can help relieve stress. 
-This game is completely FREE, has NO ADs, and NO IN-APP PURCHASES!!!! This short game is the perfect thing to give those who play it a short break, 
-which studies say leads to better productivity.It can be solved quickly, keeps those playing cognitively engaged(but not overstressed), and still 
-teaches the lesson that anything can be fixed with a little help. The game is simple to download on any android device, and follows the common 
-structure of most video games (making it easy to learn to play). After some short instruction on the goal of the game, the game can be played by all. 
-If any problems arise in the game, the developer can be emailed or comments can be left on the game github and the developers will work to fix them. 
+Thank you for considering STAR CRASH as an entertainment option at your medical practice.  In interest of making your transition from the old system to the new as seamless as possible for you and your patients, this document contains a plan for how to switch.
 
-Make the best choice now and download STAR CRASH.
+### 1:  Integrating the game
+  This game is Android based and will run on android devices running version 4.4 and higher.  This includes both phones and tablets.  A     Wi-Fi connection will be needed to download the game, but once it is downloaded, Wi-Fi will no longer be needed.
+  The tablets or phones used to play the game will need to be charged.  For this, we suggest using wireless charging in the place the       phones and/or tablets are stored in your waiting room, as this is easier for a child to do than to plug a device in to charge.  However,   wired chargers also work.
+  When switching to using STAR CRASH as waiting room entertainment at your medical practice, it is entirely your choice whether you wish     to switch from the old toys and games overnight or make the transition more slowly, over the course of several days or weeks.
+### 2:  Training on Use
+  We understand that as most of our clients are pediatricians’ offices or pediatric dentists that many of the users of our game are young   children who may not have a good understanding of how to play mobile games or top-down adventures.  For this reason, when you purchase     our software, we will also send you posters explaining to children how the game works.  These include:
+  + Using hand sanitizer before and after using the touchscreens
+  + Controlling the game by using the arrows on screen to move the player
+  + Winning the game by collecting all items to repair the ship
+  + Putting the phone/tablet away when they are done
 
-As a bonus, you can also claim that you are supporting local college students!
+### 3:  Resolving issues
+  Should you find a problem with the game such as a glitch, please email us at issue@starcrash.com.  We will work to resolve that issue     and you will then be able to download an uploaded and fixed version of the game to your devices.
 
   
 # Traceability links
