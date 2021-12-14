@@ -139,8 +139,8 @@ Thank you for considering STAR CRASH as an entertainment option at your medical 
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
 | :-------------: |:----------: |
-| classPlayer | NFR3, FR5 |
-| … | … | … |
+  |[Class diagram.png](https://raw.githubusercontent.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/master/artifacts/Class%20diagram.png)|FR3, FR6, FR7, FR8, FR13, FR17, FR25|
+
   
 ## Activity Diagram Traceability
 <In this case, it makes more sense (I think, feel free to disagree) to link
@@ -151,7 +151,7 @@ to the file and to those requirements impacted>
   |[ActivityDiagram_ShipRepair.jpg](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/ActivityDiagram_ShipRepair.jpg)|Ship Repair|FR19|
   |[Collect_Item_Activity_Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Collect_Item_Activity_Diagram.drawio.png)|Collect Item|FR16, FR17, FR20|
   |[Diagrams Collision-Activity Diagram.drawio.png](https://github.com/Lauren-Vanderklok/GVSU-CIS641-Android-Game/blob/master/artifacts/functional-models/Diagrams%20Collision-Activity%20Diagram.drawio.png)|Collision|FR25|
-| … | … | … |
+
   
 # Software Artifacts
 <Describe the purpose of this section>
